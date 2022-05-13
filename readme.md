@@ -1,2 +1,1 @@
-# WEEEEE I'm really doing it!
-Let's get it.
+# Direct to venue booking for live bands
